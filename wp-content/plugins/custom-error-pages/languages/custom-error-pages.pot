@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Error Pages v1.0\n"
+"POT-Creation-Date: 2013-11-01 18:04+0530\n"
+"PO-Revision-Date: 2013-11-01 18:04+0530\n"
+"Last-Translator: Jesin <me@jesin.in>\n"
+"Language-Team:  <me@jesin.in>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_options.php:24 ../admin_options.php:122
+msgid "Custom Error Pages"
+msgstr ""
+
+#: ../admin_options.php:36
+#, php-format
+msgid ""
+"If you find this plugin useful please consider giving it a %sfive star%s "
+"rating."
+msgstr ""
+
+#: ../admin_options.php:42
+msgid "Settings"
+msgstr ""
+
+#: ../admin_options.php:43
+msgid "More Plugins"
+msgstr ""
+
+#: ../admin_options.php:51 ../admin_options.php:55
+#, php-format
+msgid "%s Error Page"
+msgstr ""
+
+#: ../admin_options.php:52 ../admin_options.php:56
+msgid "Page Title"
+msgstr ""
+
+#: ../admin_options.php:53 ../admin_options.php:57
+msgid "Page Content"
+msgstr ""
+
+#: ../admin_options.php:71 ../admin_options.php:77
+#, php-format
+msgid ""
+"%sPreview%s this page. (Changes will apply only after you click %sSave "
+"Changes%s)"
+msgstr ""
+
+#: ../admin_options.php:125 ../admin_options.php:129
+#, php-format
+msgid "%s users place the following in your %s file."
+msgstr ""
